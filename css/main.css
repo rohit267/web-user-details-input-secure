@@ -1,0 +1,14 @@
+body{
+	padding: 0;
+	margin: 0;}
+.card{
+	margin: 3px;
+}
+h1{
+	/*font-family: 'Lato', sans-serif;*/
+	color: rgb(48, 39, 6);
+}
+
+.error{
+	color: red;
+}
